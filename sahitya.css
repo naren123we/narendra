@@ -1,0 +1,208 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    height: 12vh;
+    width: 100vw;
+    background-color:#000000cf;
+    position: sticky;
+    top: 0px;
+    z-index: 3;
+    
+    
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
+
+nav ul{
+    height: 12vh;
+    display: flex;
+    align-items: center;
+    position: relative;
+    left: 30px;
+  
+}
+nav ul li{
+    
+    display: inline-block;
+    padding: 0px 10px;
+    
+    
+}
+#t{
+    position: relative;
+    left: 46vw;
+    color: antiquewhite;
+
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: large;
+}
+#i{
+    position: relative;
+    left: 47vw;
+    color: antiquewhite;
+
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: large;
+}
+
+#pp{
+    position: relative;
+    
+    left: 45vw;
+}
+nav ul img:hover{
+    border: .5vw solid white;
+}
+nav ul li a{
+    text-decoration: none;
+    color: antiquewhite;
+
+
+    font-family: 'Mouse Memoirs', sans-serif;
+font-size: large;
+}
+nav ul li a:hover{
+    font-weight: bolder;
+}
+.k{
+    color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: line-through;
+    font-size: 2vw;
+    position: relative;
+    left: -5vw;
+}
+
+
+footer{
+    height: 40vh;
+    background-color:#000000cf;
+    
+   
+}
+.uu{
+    display: flex;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: antiquewhite;
+    padding-top: 20px;
+
+}
+.up{
+    display: inline-block;
+    position: relative;
+    top:2vh;
+    width:30vw;
+    left: 75vw;
+    color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+.ram{
+position: relative;
+width: 35vw;
+left: 72vw;
+color: antiquewhite;
+top:3vh
+}
+.op{
+    
+    position: relative;
+    width: 30vw;
+    left: 76vw;
+    top: 3vh;
+    
+}
+.co{
+    display: flex;
+    margin: 2px auto;
+    justify-content: center;
+    align-content: center;
+    
+  
+}
+.rr:hover { 
+     border: 5px solid black;
+}
+
+.rr{
+    margin-right: 10px;
+}
+
+.p{
+    position: relative;
+    
+    left: 12.5vw;
+    background-color: azure;
+}
+.y{
+    display: flex;
+    height: 50vh;
+    width: 90vw;
+    margin: 20px auto ;
+}
+.w{
+    box-sizing: border-box;
+    width: 50vw;
+    height: 50vh;
+    background-image: url('poeyt.jpg');
+    background-repeat: no-repeat;
+    background-size: 60vw 50vh;
+    font-size: large;
+    font-weight: 500;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+  
+}
+.rw{
+    box-sizing: border-box;
+    width:45vw;
+    height: 50vh;
+    background-image: url('o.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 10px;
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+}
+#rukj{
+    position: relative;
+    left: 10vh;
+    top: 3vw;
+}
+#li{
+    position: relative;
+    left: 7vh;
+    top:1vh;
+
+}
+#x{
+    position: relative;
+    left: 5vw;
+    top: 5vh;
+}
+.z{
+    position: relative;
+   top: 8vh;
+   left: 1.5vw;
+}
+.xl{
+    box-sizing: border-box;
+    position: relative;
+    width: 20vw;
+    height: 30vh;
+       bottom: 28vh;
+       left: 3vw;
+    background-color: whitesmoke;
+    padding: 0px 2vw;
+    border-radius: 8px;
+}
+#d{
+    position: relative;
+    bottom: 1.5vh;
+}
+#d:hover{
+    border: 3px solid whitesmoke;
+}
